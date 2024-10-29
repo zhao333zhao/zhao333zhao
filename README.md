@@ -1,17 +1,5 @@
 <!-- 打招呼部分 -->
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm zhaolinyang</h1>
-
-<!-- GitHub 统计卡片 -->
-<div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=laddzhao&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-</div>
-
-<!-- 奖杯展示 -->
-<div align="center">
-  <a href="https://github.com/laddzhao">
-    <img src="https://github-profile-trophy.vercel.app/?username=laddzhao&theme=flat" alt="trophy">
-  </a>
-</div>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Blue Sharky-shark</h1>
 
 <hr>
 
@@ -39,5 +27,14 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/Sharky-shark-Blue/count.svg" alt="Visitor Count">
 </p>
+
+<hr>
+
+<!-- 奖杯展示 -->
+<div align="center">
+  <a href="https://github.com/laddzhao">
+    <img src="https://github-profile-trophy.vercel.app/?username=laddzhao&theme=flat" alt="trophy">
+  </a>
+</div>
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Sharky-shark-Blue.
