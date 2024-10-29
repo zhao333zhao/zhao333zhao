@@ -8,7 +8,7 @@
 
 
 <!-- 动态文本效果 -->
-![Dynamic Text](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Welcome+to+Python+World;Learning+Python+is+fun!)
+![Dynamic Text](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Welcome+to+My+Profile;Explore+My+Projects!)
 
 <!-- Python 标签 -->
 [![Python](https://img.shields.io/badge/code-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)
