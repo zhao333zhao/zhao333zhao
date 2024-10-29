@@ -6,7 +6,14 @@
 <!-- 标题和社交链接 -->
 <div id="title" align="center">
 
-![Python](https://img.shields.io/badge/code-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)[github-sub-title:img]
+
+<!-- 动态文本效果 -->
+![Dynamic Text](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Welcome+to+Python+World;Learning+Python+is+fun!)
+
+<!-- Python 标签 -->
+[![Python](https://img.shields.io/badge/code-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharky-shark-Blue&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
