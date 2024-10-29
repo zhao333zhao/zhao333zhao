@@ -24,7 +24,7 @@
 
 <!-- 头像和访问者计数 -->
 <p align="center">
-  <img src="image/头像.jpg" alt="头像" width="300">
+  <img src="image/头像.jpg" alt="头像" width="600">
 </p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/Sharky-shark-Blue/count.svg" alt="Visitor Count">
@@ -34,8 +34,8 @@
 
 <!-- 奖杯展示 -->
 <div align="center">
-  <a href="https://github.com/laddzhao">
-    <img src="https://github-profile-trophy.vercel.app/?username=laddzhao&theme=flat" alt="trophy">
+  <a href="https://github.com/Sharky-shark-Blue">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sharky-shark-Blue&theme=flat" alt="trophy">
   </a>
 </div>
 
