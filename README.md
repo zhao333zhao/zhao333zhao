@@ -23,8 +23,8 @@
 
 <!-- 个人特质徽章 -->
 [![Modern Python](https://img.shields.io/badge/code-Modern%20Python-blue?style=for-the-badge&logo=c%2B%2B)](https://www.python.org/) 
-![](https://img.shields.io/badge/性格-静-red?style=for-the-badge) 
-![](https://img.shields.io/badge/爱好-二次元-red?style=for-the-badge)
+![](https://img.shields.io/badge/性格-静-blue?style=for-the-badge) 
+![](https://img.shields.io/badge/爱好-二次元-blue?style=for-the-badge)
 
 </div>
 
