@@ -1,4 +1,4 @@
-<!-- 打招呼部分 -->
+<!-- Welcome -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Blue Sharky-shark</h1>
 
 <hr>
@@ -10,21 +10,20 @@
 <!-- 动态文本效果 -->
 ![Dynamic Text](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Welcome+to+My+Profile;Explore+My+Projects!)
 
-<!-- Python 标签 -->
-[![Python](https://img.shields.io/badge/code-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+<!-- 语言 -->
+[![Python](https://img.shields.io/badge/code-Python-bea?style=for-the-badge&logo=python)](https://www.python.org/)
 
+<!-- 社交链接和徽章 -->
+[![Video YouTube](https://img.shields.io/badge/Video-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com)
+[![Video YouTube](https://img.shields.io/badge/Video-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com)
+<!-- 个人特质徽章 -->
+![](https://img.shields.io/badge/性格-静-orange?style=for-the-badge) 
+![](https://img.shields.io/badge/爱好-二次元-crimson?style=for-the-badge)
+![](https://img.shields.io/badge/爱好-二次元-lavenderblush?style=for-the-badge)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharky-shark-Blue&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-<!-- 社交链接和徽章 -->
-[![Zhihu](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yellow?style=for-the-badge&logo=zhihu)]()
-[![YouTube](https://img.shields.io/badge/YouTube-Video-red?style=for-the-badge&logo=youtube)]()
-
-<!-- 个人特质徽章 -->
-[![Modern Python](https://img.shields.io/badge/code-%20Python-blue?style=for-the-badge&logo=c%2B%2B)](https://www.python.org/) 
-![](https://img.shields.io/badge/性格-静-blue?style=for-the-badge) 
-![](https://img.shields.io/badge/爱好-二次元-blue?style=for-the-badge)
 
 </div>
 
