@@ -30,7 +30,7 @@
 
 <!-- 头像和访问者计数 -->
 <p align="center">
-  <img src="image/头像.jpg" alt="头像" width="600">
+  <img src="image/images.jpg" alt="images" width="600">
 </p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/Sharky-shark-Blue/count.svg" alt="Visitor Count">
