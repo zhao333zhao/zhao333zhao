@@ -6,7 +6,7 @@
 <!-- 标题和社交链接 -->
 <div id="title" align="center">
 
-![Modern C++ template][github-sub-title:img]
+![Python](https://img.shields.io/badge/code-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)[github-sub-title:img]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharky-shark-Blue&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
@@ -15,8 +15,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Video-red?style=for-the-badge&logo=youtube)]()
 
 <!-- 个人特质徽章 -->
-[![Modern C++](https://img.shields.io/badge/code-Modern%20C++-blue?style=for-the-badge&logo=c%2B%2B)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
-
+[![Modern Python](https://img.shields.io/badge/code-Modern%20Python-blue?style=for-the-badge&logo=c%2B%2B)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 ![](https://img.shields.io/badge/性格-静-red?style=for-the-badge) 
 ![](https://img.shields.io/badge/爱好-二次元-red?style=for-the-badge)
 
